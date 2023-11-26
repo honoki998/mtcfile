@@ -12,15 +12,15 @@
 
 ### 1.添加学生对话
 
-![instruction1](D:\Temp\教程\instruction1.png)
+![创建学生](Instructions/instruction1.png)
 
 ### 2.创建聊天记录
 
-![instruction2](D:\Temp\教程\instruction2.png)
+![聊天记录](Instructions/instruction2.png)
 
 ### 3.关于群聊
 
-![instruction3](D:\Temp\教程\instruction3.png)
+![群聊说明](Instructions/instruction3.png)
 
 ## 三.关于学生名字汉化
 
