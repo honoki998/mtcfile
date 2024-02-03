@@ -1,5 +1,23 @@
 [
     {
+        "id": 9998,
+        "fname": "Chat||",
+        "lname": "GPT||",
+        "roma": "GPT",
+        "month": 1,
+        "day": 1,
+        "club": "世界",
+        "clubCode": "RealWorld",
+        "school": "世界",
+        "schoolCode": "RealWorld",
+        "rank": 3,
+        "type": "",
+        "armorType": "",
+        "bulletType": "",
+        "SR":"student",
+        "weapon": ""
+    },
+    {
         "id": 9999,
         "fname": "",
         "lname": "老师||先生||Sensei||선생님||老師||คุณครู",
